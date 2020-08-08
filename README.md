@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="90.6px" src="./logo.png">
+    <img alt="Logo" title="#logo" width="150px" src="./logo.png">
     <br><br>
     <b>Proffy - Plataforma para alunos encontrarem professores</b>  
     <br>
@@ -9,7 +9,7 @@
   <a>
   <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
   <br><br>
-<img alt="Foodfy" title="#logo" width="1718px" src="./screenshot.png">
+<img alt="Proffy" title="#logo" width="1718px" src="./screenshot.png">
 
   # Índice
 
@@ -19,7 +19,7 @@
 <a id="sobre"></a>
   ## :bookmark: Sobre
 
-O <strong>Profft</strong> é uma aplicação alunos para encontrarem professores.
+<strong>Proffy</strong> é uma aplicação alunos para encontrarem professores.
 
 Essa aplicação foi construída durante a <strong>NLW</strong> da [Rocketseat](https://rocketseat.com.br/). 
 
