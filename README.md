@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="150px" src="./logo.png">
+    <img alt="Logo" title="#logo" width="150px" src="./logo1.png">
     <br><br>
     <b>Proffy - Plataforma para alunos encontrarem professores</b>  
     <br>
